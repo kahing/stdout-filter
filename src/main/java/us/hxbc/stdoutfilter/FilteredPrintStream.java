@@ -16,6 +16,7 @@ public class FilteredPrintStream extends ByteArrayOutputStream {
             "com.avaje.ebean.enhance.asm.ClassReader.readClass(",
             "com.avaje.ebean.enhance.asm.ClassReader.<init>(",
             "com.avaje.ebean.enhance.asm.ClassReader.readUTF8(",
+            "com.avaje.ebean.enhance.asm.ClassReader.accept("
     };
 
     private final PrintStream out;
