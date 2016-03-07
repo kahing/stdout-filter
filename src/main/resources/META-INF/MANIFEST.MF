@@ -1,0 +1,2 @@
+Premain-Class: us.hxbc.stdoutfilter.AgentMain
+Main-Class: us.hxbc.stdoutfilter.Main
